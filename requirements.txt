@@ -1,0 +1,5 @@
+flask
+Pillow==5
+flask-bootstrap
+gevent
+gunicorn[eventlet]
