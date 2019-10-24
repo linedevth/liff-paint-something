@@ -1,5 +1,5 @@
 flask
-Pillow==5
+Pillow==6.2.0
 flask-bootstrap
 gevent
 gunicorn[eventlet]
